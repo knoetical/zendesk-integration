@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "Knoetical Ticket Analysis",
+    "short_description": "Tag and classify tickets.",
+    "long_description": "Tag and classify tickets. Also get relevant tickets and suggestions for possible solution.",
+    "installation_instructions": "Simply click install."
+  }
+}
