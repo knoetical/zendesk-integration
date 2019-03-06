@@ -3,9 +3,10 @@
   "author": {
     "name": "shekhar chandra",
     "email": "shekhar.chandra@outlook.com",
+    "url": "https://knoetical.github.io/"
   },
   "defaultLocale": "en",
-  "private": true,
+  "private": false,
   "location": {
     "support": {
       "ticket_sidebar": {
