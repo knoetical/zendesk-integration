@@ -8,6 +8,8 @@ Tag and classify tickets. Also get relevant tickets and suggestions for possible
 
 * Get key phrases and words that are being mentioned in the conversation. This information helps agents to quickly identify the theme of the conversation. If there are relevant tickets in the archive then they will be shown as well.
 
+* Integrate this app with Zendesk via webhook integration to keep the background model and search indices up to date.
+
 
 Please submit bug reports to [GitHub](https://github.com/knoetical/zendesk-integration/issues). Pull requests are welcome.
 
